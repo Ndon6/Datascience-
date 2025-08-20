@@ -1,0 +1,1 @@
+This model predict the range and efficiency of electric vehicles based on features like acceleration, top speed, powertrain, number of seat,and bodystyle etc.This can help consumers and manufacturers understand performance characteristics better
